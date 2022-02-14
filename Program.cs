@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Name: Andem Tejasvi Reddy
+ * Date: 02/09/2022
+ * Description: Solution for questions in Assignment 2
+ * Self Reflection: I have taken around 30 hours to finish the assignment. With this assignment I got the opportunity to explore the usage of different datastructures in C# such as dictionaries, arraylists,etc.
+*/
+
+
+using System;
 using System.Collections.Generic;
 using System.Collections;
 using System.Linq;
